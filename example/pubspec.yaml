@@ -27,7 +27,7 @@ dependencies:
     hosted:
       name: flutter_map
       url: https://unpub.optyce.eu
-    version: ^0.14.0
+    version: ^0.14.1
   flutter_map_marker_cluster:
     path: ../
   cupertino_icons: ^1.0.2
